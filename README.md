@@ -28,6 +28,6 @@ The steps for this project were:
 2. Feature engineering from datetime data
 3. Training a linear regression model to predict trip duration
 4. Evaluating the model on test data
-5. Feature engineering included extracting the hour, day, and month from the pickup_datetime 6. field to capture any time-based effects.
+5. Plotting coefficents to see which features have high variance
 
 The model performance is evaluated using RMSE.
